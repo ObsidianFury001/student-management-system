@@ -6,16 +6,16 @@
 
 Allows an authorized admin to perform the following operations.
 
-- Create new Student Record
-- Add Student Record
-- Display all Students
-- Search a Student Record based on id
-- Edit a Student Record based on id
-- Delete a Student Record based on id
+- Create new student record
+- Add student record
+- Display all students
+- Search a student record based on id
+- Edit a student record based on id
+- Delete a student record based on id
 
 ## Student Module
 
  Allows an authorized student to perform the following operations.
 
 - Display student records
-- Generate a mark sheet based on the marks entered in their respective subjects.
+- Generate a mark sheet based on subject marks
